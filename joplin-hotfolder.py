@@ -1,0 +1,1 @@
+../../Desktop/joplin-hotfolder.py
